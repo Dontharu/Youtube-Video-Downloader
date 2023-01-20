@@ -2,7 +2,7 @@
 
 This Tool will help you to download Youtube video's
 
-Made by @Whitmintha123456
+Made by @Dontharu
 
 
 > This tool is very helpfull to download youtube video's
@@ -11,7 +11,7 @@ Made by @Whitmintha123456
 
 Installation:
 
-     $ git clone https://github.com/Dontharu/Youtube-Video-Downloader
+     $ git clone https://github.com/MatroLink/Youtube-Video-Downloader
 
      $ cd Youtube-Video-Downloader
 
@@ -19,8 +19,8 @@ Installation:
 
      $ python3 main.py
 
-* All Rights reserved by whitmintha123456
+* All Rights reserved by Matro Link
 
-* Made with ♥️ by whitmintha123456/Minuka
+* Made with ♥️ by Matro Link/Minuka
 
 # Thank you.
