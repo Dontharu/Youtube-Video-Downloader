@@ -11,7 +11,7 @@ Made by @Whitmintha123456
 
 Installation:
 
-     $ git clone https://github.com/whitmintha123456/Youtube-Video-Downloader
+     $ git clone https://github.com/Dontharu/Youtube-Video-Downloader
 
      $ cd Youtube-Video-Downloader
 
