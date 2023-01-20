@@ -11,7 +11,7 @@ Made by @Dontharu
 
 Installation:
 
-     $ git clone https://github.com/MatroLink/Youtube-Video-Downloader
+     $ git clone https://github.com/Dontharu/Youtube-Video-Downloader
 
      $ cd Youtube-Video-Downloader
 
@@ -21,6 +21,6 @@ Installation:
 
 * All Rights reserved by Matro Link
 
-* Made with ♥️ by Matro Link/Minuka
+* Made with ♥️ by Dontharu(Matro Link)/Minuka
 
 # Thank you.
